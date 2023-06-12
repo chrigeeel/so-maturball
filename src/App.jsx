@@ -56,11 +56,11 @@ function App() {
             <div className="absolute top-0 left-0 h-full w-full">
                 <img
                     className="h-full w-full object-cover"
-                    src="https://so-rychenberg.ch/static/media/dj.ff14f2f50a31aa361bd6.jpg"
+                    src="https://i0.wp.com/glowily.com/wp-content/uploads/2018/05/Screen-Shot-2018-05-31-at-3.05.55-pm.jpg?w=1180&ssl=1"
                     alt=""
                 />
             </div>
-            <div className="flex bg-neutral-900 bg-opacity-10 absolute top-0 left-0 h-full w-full backdrop-blur-sm z-10">
+            <div className="flex bg-neutral-900 bg-opacity-10 absolute top-0 left-0 h-full w-full backdrop-blur-md z-10">
                 <div className="m-auto flex flex-col w-11/12 max-w-lg bg-neutral-900 shadow-xl rounded-md p-4">
                     {message ? (
                         <span className="text-white font-bold text-xl text-center">
